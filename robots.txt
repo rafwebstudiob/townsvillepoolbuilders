@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://townsvillepoolbuilders.com.au/sitemap.xml
